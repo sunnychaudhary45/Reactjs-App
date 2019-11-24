@@ -1,0 +1,10 @@
+{
+    "development": {
+        "APIURL":"http://localhost:4000/api",
+        "ImagePath":"http://localhost:4000/uploads/"
+    }, 
+    "production": {
+        "APIURL":"serverhostnamehere/api",
+        "ImagePath":"serverhostnamehere/uploads/"
+    }
+}
